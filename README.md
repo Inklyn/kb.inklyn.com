@@ -1,2 +1,3 @@
-# kb.inklyn.com
-Inklyn Knowledge Base
+# Inklyn - Knowledge Base
+
+https://kb.inklyn.com

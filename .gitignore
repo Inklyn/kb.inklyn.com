@@ -1,3 +1,11 @@
+.obsidian
+.vite_opt_cache
+.vitepress/cache
+.vitepress/dist
+cache
+dist
+node_modules
+
 # Logs
 logs
 *.log
