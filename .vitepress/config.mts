@@ -9,7 +9,7 @@ export default defineConfig({
   description: "Knowledge Base",
 
   ignoreDeadLinks: true,
-  lastUpdated: true,
+  lastUpdated: false,
   cleanUrls: true,
   sitemap: { hostname: 'https://kb.inklyn.com' },
 
